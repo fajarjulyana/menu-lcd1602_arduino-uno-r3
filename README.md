@@ -55,9 +55,10 @@ Tombol Enter| Pin digital 4
 
 Selamat mencoba!
 # Documentations
-![MainMenu](capture/menu-1.jpg)
-![MainMenu](capture/menu-2.jpg)
-![MainMenu](capture/menu-3.jpg)
-![MainMenu](capture/menu-4.jpg)
-![MainMenu](capture/menu-5.jpg)
-![MainMenu](capture/menu-1-entered.jpg)
+![MainMenu](capture/menu-1.jpg)<br>
+![MainMenu](capture/menu-2.jpg)<br>
+![MainMenu](capture/menu-3.jpg)<br>
+![MainMenu](capture/menu-4.jpg)<br>
+![MainMenu](capture/menu-5.jpg)<br>
+ketika menu 1 ditekan enter maka muncul seperti dibawah ini:<br>
+![MainMenu](capture/menu-1-entered.jpg)<br>
