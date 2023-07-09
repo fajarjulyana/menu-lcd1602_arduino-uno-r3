@@ -1,6 +1,6 @@
 # Proyek LCD 16x2 dengan Arduino Uno R3
 
-![MainMenu](capture/capture-1.jpg)
+![MainMenu](capture/menu-1.jpg)
 
 Proyek ini adalah contoh penggunaan LCD 16x2 dengan Arduino Uno R3 untuk membuat menu sederhana dengan seleksi kursor. Dalam proyek ini, kita menggunakan library LiquidCrystal untuk mengontrol LCD.
 
