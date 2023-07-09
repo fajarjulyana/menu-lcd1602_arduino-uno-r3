@@ -53,6 +53,3 @@ Tombol Enter| Pin digital 4
 8. Ikuti petunjuk di dalam kode program untuk menambahkan logika dan fungsi sesuai kebutuhan Anda.
 
 Selamat mencoba!
-
-
-Pastikan Anda melampirkan gambar LCD 16x2 yang relevan atau tautan ke gambar tersebut di dalam direktori proyek. Anda juga dapat menambahkan bagian lain yang diperlukan, seperti diagram rangkaian atau informasi tambahan yang dianggap berguna bagi pengguna untuk mengikuti proyek.
