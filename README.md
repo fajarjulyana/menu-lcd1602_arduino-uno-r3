@@ -34,6 +34,10 @@ D7          | Pin digital 6
 A           | 5V melalui resistor 10k ohm
 K           | GND
 
+Berikut adalah koneksi pin antara Arduino Uno R3 dan Push Button:
+
+Push Button    | Arduino Uno R3
+------------|---------------
 Tombol Up   | Pin digital 2
 Tombol Down | Pin digital 3
 Tombol Enter| Pin digital 4
