@@ -34,6 +34,10 @@ D7          | Pin digital 6
 A           | 5V melalui resistor 10k ohm
 K           | GND
 
+Tombol Up   | Pin digital 2
+Tombol Down | Pin digital 3
+Tombol Enter| Pin digital 4
+
 ## Cara Menggunakan
 1. Sambungkan LCD 16x2 ke Arduino Uno R3 sesuai dengan skema koneksi di atas.
 2. Hubungkan tombol-tombol ke pin digital yang ditentukan dalam kode.
