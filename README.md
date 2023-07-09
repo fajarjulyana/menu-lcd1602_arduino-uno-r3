@@ -25,12 +25,12 @@ VSS         | GND
 VDD         | 5V
 VO          | Tengangan potensio (untuk mengatur kontras LCD)
 RS          | Pin digital 12
-RW          | GND
-E           | Pin digital 11
-D4          | Pin digital 5
-D5          | Pin digital 4
-D6          | Pin digital 3
-D7          | Pin digital 2
+RW          | Pin digital 11
+E           | Pin digital 10
+D4          | Pin digital 9
+D5          | Pin digital 8
+D6          | Pin digital 7
+D7          | Pin digital 6
 A           | 5V melalui resistor 10k ohm
 K           | GND
 
