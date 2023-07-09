@@ -54,3 +54,10 @@ Tombol Enter| Pin digital 4
 8. Ikuti petunjuk di dalam kode program untuk menambahkan logika dan fungsi sesuai kebutuhan Anda.
 
 Selamat mencoba!
+# Documentations
+![MainMenu](capture/menu-1.jpg)
+![MainMenu](capture/menu-2.jpg)
+![MainMenu](capture/menu-3.jpg)
+![MainMenu](capture/menu-4.jpg)
+![MainMenu](capture/menu-5.jpg)
+![MainMenu](capture/menu-1-entered.jpg)
